@@ -1,0 +1,9 @@
+﻿return_reason_key,reason_code,reason_desc,reason_category,is_restockable,restocking_fee_pct,is_active,row_created_date,row_updated_date
+1,Q001,Defective product,Quality,1,0,1,10/28/2025,10/28/2025
+2,S001,Wrong size,Size,1,0,1,10/28/2025,10/28/2025
+3,M001,Changed mind,Change of Mind,1,10,1,10/28/2025,10/28/2025
+4,D001,Damaged in transit,Damaged,0,0,1,10/28/2025,10/28/2025
+5,F001,Found better price elsewhere,Change of Mind,1,0,1,10/28/2025,10/28/2025
+6,N001,Not as described,Quality,1,0,1,10/28/2025,10/28/2025
+7,U001,Unwanted gift,Change of Mind,1,5,1,10/28/2025,10/28/2025
+8,L001,Late delivery,Change of Mind,1,0,1,10/28/2025,10/28/2025

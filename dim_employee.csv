@@ -1,0 +1,101 @@
+﻿employee_id,first_name,last_name,full_name,email,job_title,department,hire_date,termination_date,employment_status,employment_type,manager_employee_id,store_code,current_flag,effective_from,effective_to,row_created_date,row_updated_date
+E1001,Danielle,Johnson,Danielle Johnson,danielle.johnson@retailcorp.com,Cashier,Sales,12/21/2022,,Active,Full-time,E1095,STR0004,1,12/21/2022,,10/28/2025,10/28/2025
+E1002,Carolyn,Hoffman,Carolyn Hoffman,carolyn.hoffman@retailcorp.com,Logistics Coordinator,Sales,1/26/2024,,Active,Full-time,E1028,STR0008,1,1/26/2024,,10/28/2025,10/28/2025
+E1003,Matthew,Davis,Matthew Davis,matthew.davis@retailcorp.com,Logistics Coordinator,Finance,3/3/2023,7/18/2024,Terminated,Contractor,E1070,STR0014,1,3/3/2023,7/18/2024,10/28/2025,10/28/2025
+E1004,Kelly,Fuller,Kelly Fuller,kelly.fuller@retailcorp.com,Store Manager,Customer Service,7/6/2021,,Active,Full-time,E1021,STR0014,1,7/6/2021,,10/28/2025,10/28/2025
+E1005,Mitchell,Clark,Mitchell Clark,mitchell.clark@retailcorp.com,Inventory Clerk,Logistics,10/17/2021,10/2/2024,Terminated,Part-time,E1049,STR0004,1,10/17/2021,10/2/2024,10/28/2025,10/28/2025
+E1006,Lydia,Trujillo,Lydia Trujillo,lydia.trujillo@retailcorp.com,Inventory Clerk,Logistics,2/11/2023,,Active,Full-time,E1069,STR0004,1,2/11/2023,,10/28/2025,10/28/2025
+E1007,Jose,Richards,Jose Richards,jose.richards@retailcorp.com,Sales Associate,Sales,6/28/2023,,Active,Contractor,E1047,STR0019,1,6/28/2023,,10/28/2025,10/28/2025
+E1008,Ernest,Becker,Ernest Becker,ernest.becker@retailcorp.com,Store Manager,Sales,4/18/2021,10/3/2022,Terminated,Part-time,,STR0008,1,4/18/2021,10/3/2022,10/28/2025,10/28/2025
+E1009,Kelly,Moore,Kelly Moore,kelly.moore@retailcorp.com,Cashier,Customer Service,5/30/2022,,Active,Contractor,,STR0006,1,5/30/2022,,10/28/2025,10/28/2025
+E1010,Kathryn,Ryan,Kathryn Ryan,kathryn.ryan@retailcorp.com,Inventory Clerk,Logistics,12/7/2023,,Active,Part-time,E1088,STR0003,1,12/7/2023,,10/28/2025,10/28/2025
+E1011,Todd,Jones,Todd Jones,todd.jones@retailcorp.com,Logistics Coordinator,Inventory,9/5/2023,,Active,Full-time,E1049,STR0009,1,9/5/2023,,10/28/2025,10/28/2025
+E1012,Debra,Kim,Debra Kim,debra.kim@retailcorp.com,Logistics Coordinator,Inventory,10/17/2021,,Active,Full-time,E1005,STR0011,1,10/17/2021,,10/28/2025,10/28/2025
+E1013,Carlos,Johnson,Carlos Johnson,carlos.johnson@retailcorp.com,Sales Associate,Logistics,3/22/2021,8/19/2023,Terminated,Contractor,E1084,STR0016,1,3/22/2021,8/19/2023,10/28/2025,10/28/2025
+E1014,Collin,Jordan,Collin Jordan,collin.jordan@retailcorp.com,Sales Associate,Customer Service,8/8/2021,10/24/2022,Terminated,Full-time,E1069,STR0009,1,8/8/2021,10/24/2022,10/28/2025,10/28/2025
+E1015,Joshua,Wright,Joshua Wright,joshua.wright@retailcorp.com,Logistics Coordinator,Customer Service,11/20/2022,,Active,Part-time,E1018,STR0017,1,11/20/2022,,10/28/2025,10/28/2025
+E1016,Timothy,Hancock,Timothy Hancock,timothy.hancock@retailcorp.com,Sales Associate,Sales,6/24/2021,,Active,Full-time,E1021,STR0014,1,6/24/2021,,10/28/2025,10/28/2025
+E1017,James,Robinson,James Robinson,james.robinson@retailcorp.com,Logistics Coordinator,Sales,6/28/2021,,Active,Contractor,,STR0017,1,6/28/2021,,10/28/2025,10/28/2025
+E1018,Brian,Romero,Brian Romero,brian.romero@retailcorp.com,Inventory Clerk,Finance,12/27/2020,,Active,Full-time,E1015,STR0018,1,12/27/2020,,10/28/2025,10/28/2025
+E1019,Christine,Barnes,Christine Barnes,christine.barnes@retailcorp.com,Inventory Clerk,Logistics,9/5/2023,9/19/2025,Terminated,Full-time,E1093,STR0009,1,9/5/2023,9/19/2025,10/28/2025,10/28/2025
+E1020,Debbie,Bryant,Debbie Bryant,debbie.bryant@retailcorp.com,Logistics Coordinator,Inventory,5/24/2022,,Active,Full-time,,STR0010,1,5/24/2022,,10/28/2025,10/28/2025
+E1021,Justin,Kim,Justin Kim,justin.kim@retailcorp.com,Logistics Coordinator,Finance,8/9/2024,6/22/2026,Terminated,Full-time,E1100,STR0017,1,8/9/2024,6/22/2026,10/28/2025,10/28/2025
+E1022,Daniel,Tran,Daniel Tran,daniel.tran@retailcorp.com,Cashier,Finance,1/3/2021,,Active,Full-time,E1047,STR0010,1,1/3/2021,,10/28/2025,10/28/2025
+E1023,Adam,Wise,Adam Wise,adam.wise@retailcorp.com,Store Manager,Sales,3/4/2023,,Active,Contractor,,STR0003,1,3/4/2023,,10/28/2025,10/28/2025
+E1024,Earl,Anderson,Earl Anderson,earl.anderson@retailcorp.com,Sales Associate,Sales,7/27/2024,,Active,Contractor,E1017,STR0016,1,7/27/2024,,10/28/2025,10/28/2025
+E1025,Robert,White,Robert White,robert.white@retailcorp.com,Logistics Coordinator,Inventory,12/2/2020,,Active,Contractor,E1028,STR0018,1,12/2/2020,,10/28/2025,10/28/2025
+E1026,Donna,Ross,Donna Ross,donna.ross@retailcorp.com,Store Manager,Logistics,12/25/2020,,Active,Contractor,E1057,STR0017,1,12/25/2020,,10/28/2025,10/28/2025
+E1027,Daniel,Hamilton,Daniel Hamilton,daniel.hamilton@retailcorp.com,Sales Associate,Sales,9/28/2023,,Active,Full-time,E1076,STR0018,1,9/28/2023,,10/28/2025,10/28/2025
+E1028,Jennifer,Harmon,Jennifer Harmon,jennifer.harmon@retailcorp.com,Store Manager,Finance,3/7/2023,,Active,Full-time,E1008,STR0008,1,3/7/2023,,10/28/2025,10/28/2025
+E1029,David,Fisher,David Fisher,david.fisher@retailcorp.com,Cashier,Sales,10/19/2022,,Active,Full-time,E1036,STR0016,1,10/19/2022,,10/28/2025,10/28/2025
+E1030,Scott,Lowe,Scott Lowe,scott.lowe@retailcorp.com,Store Manager,Finance,11/11/2021,4/13/2024,Terminated,Contractor,E1061,STR0014,1,11/11/2021,4/13/2024,10/28/2025,10/28/2025
+E1031,Tracey,Carr,Tracey Carr,tracey.carr@retailcorp.com,Store Manager,Sales,3/29/2024,4/9/2026,Terminated,Part-time,E1060,STR0002,1,3/29/2024,4/9/2026,10/28/2025,10/28/2025
+E1032,Susan,Holmes,Susan Holmes,susan.holmes@retailcorp.com,Cashier,Sales,1/13/2024,,Active,Part-time,,STR0004,1,1/13/2024,,10/28/2025,10/28/2025
+E1033,Patricia,Salazar,Patricia Salazar,patricia.salazar@retailcorp.com,Store Manager,Inventory,9/10/2022,10/8/2024,Terminated,Full-time,E1036,STR0015,1,9/10/2022,10/8/2024,10/28/2025,10/28/2025
+E1034,Chris,Mitchell,Chris Mitchell,chris.mitchell@retailcorp.com,Store Manager,Sales,3/25/2022,,Active,Contractor,E1084,STR0018,1,3/25/2022,,10/28/2025,10/28/2025
+E1035,Amy,Perry,Amy Perry,amy.perry@retailcorp.com,Cashier,Sales,1/10/2024,,Active,Full-time,E1063,STR0016,1,1/10/2024,,10/28/2025,10/28/2025
+E1036,Peter,Snow,Peter Snow,peter.snow@retailcorp.com,Store Manager,Customer Service,9/24/2024,,Active,Full-time,E1050,STR0009,1,9/24/2024,,10/28/2025,10/28/2025
+E1037,David,Dean,David Dean,david.dean@retailcorp.com,Sales Associate,Logistics,12/5/2021,,Active,Contractor,,STR0018,1,12/5/2021,,10/28/2025,10/28/2025
+E1038,Nicholas,Lewis,Nicholas Lewis,nicholas.lewis@retailcorp.com,Sales Associate,Inventory,11/15/2021,4/21/2023,Terminated,Full-time,E1070,STR0002,1,11/15/2021,4/21/2023,10/28/2025,10/28/2025
+E1039,James,Smith,James Smith,james.smith@retailcorp.com,Inventory Clerk,Sales,5/26/2023,7/22/2025,Terminated,Contractor,,STR0017,1,5/26/2023,7/22/2025,10/28/2025,10/28/2025
+E1040,Catherine,Adkins,Catherine Adkins,catherine.adkins@retailcorp.com,Store Manager,Sales,2/22/2021,,Active,Full-time,,STR0003,1,2/22/2021,,10/28/2025,10/28/2025
+E1041,Brittany,Rivas,Brittany Rivas,brittany.rivas@retailcorp.com,Logistics Coordinator,Sales,2/11/2021,,Active,Full-time,E1073,STR0008,1,2/11/2021,,10/28/2025,10/28/2025
+E1042,William,Peterson,William Peterson,william.peterson@retailcorp.com,Logistics Coordinator,Finance,5/1/2024,5/19/2025,Terminated,Part-time,E1073,STR0017,1,5/1/2024,5/19/2025,10/28/2025,10/28/2025
+E1043,Jessica,Adams,Jessica Adams,jessica.adams@retailcorp.com,Inventory Clerk,Logistics,12/3/2022,,Active,Contractor,E1034,STR0013,1,12/3/2022,,10/28/2025,10/28/2025
+E1044,Melissa,White,Melissa White,melissa.white@retailcorp.com,Store Manager,Logistics,3/8/2021,,Active,Full-time,E1080,STR0019,1,3/8/2021,,10/28/2025,10/28/2025
+E1045,John,Russell,John Russell,john.russell@retailcorp.com,Cashier,Sales,2/14/2022,,Active,Contractor,E1045,STR0003,1,2/14/2022,,10/28/2025,10/28/2025
+E1046,Elizabeth,Wood,Elizabeth Wood,elizabeth.wood@retailcorp.com,Store Manager,Logistics,10/20/2021,,Active,Part-time,,STR0010,1,10/20/2021,,10/28/2025,10/28/2025
+E1047,David,Lee,David Lee,david.lee@retailcorp.com,Logistics Coordinator,Finance,4/1/2021,5/11/2024,Terminated,Contractor,E1085,STR0004,1,4/1/2021,5/11/2024,10/28/2025,10/28/2025
+E1048,Marissa,Phillips,Marissa Phillips,marissa.phillips@retailcorp.com,Store Manager,Logistics,7/13/2024,8/26/2025,Terminated,Contractor,E1035,STR0010,1,7/13/2024,8/26/2025,10/28/2025,10/28/2025
+E1049,Alexander,Mitchell,Alexander Mitchell,alexander.mitchell@retailcorp.com,Logistics Coordinator,Inventory,6/15/2021,,Active,Full-time,E1034,STR0017,1,6/15/2021,,10/28/2025,10/28/2025
+E1050,Lisa,Avery,Lisa Avery,lisa.avery@retailcorp.com,Sales Associate,Logistics,9/26/2022,,Active,Full-time,E1055,STR0009,1,9/26/2022,,10/28/2025,10/28/2025
+E1051,Rebekah,Evans,Rebekah Evans,rebekah.evans@retailcorp.com,Cashier,Sales,8/18/2023,,Active,Full-time,E1034,STR0006,1,8/18/2023,,10/28/2025,10/28/2025
+E1052,Christopher,Allen,Christopher Allen,christopher.allen@retailcorp.com,Sales Associate,Finance,1/17/2022,,Active,Contractor,E1010,STR0005,1,1/17/2022,,10/28/2025,10/28/2025
+E1053,Jasmine,Warner,Jasmine Warner,jasmine.warner@retailcorp.com,Logistics Coordinator,Sales,1/27/2021,,Active,Contractor,E1056,STR0005,1,1/27/2021,,10/28/2025,10/28/2025
+E1054,Gabriel,Parker,Gabriel Parker,gabriel.parker@retailcorp.com,Cashier,Logistics,12/27/2020,,Active,Full-time,,STR0007,1,12/27/2020,,10/28/2025,10/28/2025
+E1055,Pamela,Navarro,Pamela Navarro,pamela.navarro@retailcorp.com,Store Manager,Sales,8/5/2023,,Active,Contractor,,STR0014,1,8/5/2023,,10/28/2025,10/28/2025
+E1056,Scott,Ramirez,Scott Ramirez,scott.ramirez@retailcorp.com,Logistics Coordinator,Inventory,3/23/2022,,Active,Full-time,,STR0006,1,3/23/2022,,10/28/2025,10/28/2025
+E1057,Robert,Simpson,Robert Simpson,robert.simpson@retailcorp.com,Sales Associate,Sales,1/19/2021,10/21/2022,Terminated,Part-time,,STR0008,1,1/19/2021,10/21/2022,10/28/2025,10/28/2025
+E1058,Jacob,Cox,Jacob Cox,jacob.cox@retailcorp.com,Inventory Clerk,Inventory,2/21/2022,,Active,Full-time,E1005,STR0016,1,2/21/2022,,10/28/2025,10/28/2025
+E1059,Andrea,Tran,Andrea Tran,andrea.tran@retailcorp.com,Store Manager,Inventory,5/15/2024,,Active,Part-time,E1030,STR0008,1,5/15/2024,,10/28/2025,10/28/2025
+E1060,Timothy,Kennedy,Timothy Kennedy,timothy.kennedy@retailcorp.com,Cashier,Inventory,4/23/2024,,Active,Part-time,,STR0009,1,4/23/2024,,10/28/2025,10/28/2025
+E1061,Aaron,Barber,Aaron Barber,aaron.barber@retailcorp.com,Inventory Clerk,Finance,6/4/2022,,Active,Contractor,E1004,STR0004,1,6/4/2022,,10/28/2025,10/28/2025
+E1062,Stanley,Morris,Stanley Morris,stanley.morris@retailcorp.com,Inventory Clerk,Inventory,8/24/2023,,Active,Part-time,E1077,STR0014,1,8/24/2023,,10/28/2025,10/28/2025
+E1063,Laura,Pearson,Laura Pearson,laura.pearson@retailcorp.com,Inventory Clerk,Logistics,9/10/2024,,Active,Contractor,E1074,STR0007,1,9/10/2024,,10/28/2025,10/28/2025
+E1064,Stephen,Bowen,Stephen Bowen,stephen.bowen@retailcorp.com,Inventory Clerk,Sales,6/13/2023,,Active,Full-time,E1069,STR0007,1,6/13/2023,,10/28/2025,10/28/2025
+E1065,Casey,Welch,Casey Welch,casey.welch@retailcorp.com,Inventory Clerk,Customer Service,6/1/2022,2/5/2025,Terminated,Part-time,E1085,STR0004,1,6/1/2022,2/5/2025,10/28/2025,10/28/2025
+E1066,Ryan,Sanchez,Ryan Sanchez,ryan.sanchez@retailcorp.com,Inventory Clerk,Finance,10/10/2022,,Active,Part-time,E1090,STR0010,1,10/10/2022,,10/28/2025,10/28/2025
+E1067,Jonathan,Smith,Jonathan Smith,jonathan.smith@retailcorp.com,Logistics Coordinator,Inventory,6/16/2022,2/20/2025,Terminated,Part-time,E1023,STR0020,1,6/16/2022,2/20/2025,10/28/2025,10/28/2025
+E1068,Melissa,Rodriguez,Melissa Rodriguez,melissa.rodriguez@retailcorp.com,Logistics Coordinator,Logistics,2/14/2024,,Active,Full-time,E1027,STR0014,1,2/14/2024,,10/28/2025,10/28/2025
+E1069,Lauren,Lawson,Lauren Lawson,lauren.lawson@retailcorp.com,Logistics Coordinator,Finance,3/16/2021,,Active,Part-time,E1087,STR0007,1,3/16/2021,,10/28/2025,10/28/2025
+E1070,Renee,Murphy,Renee Murphy,renee.murphy@retailcorp.com,Logistics Coordinator,Customer Service,2/20/2021,,Active,Contractor,E1011,STR0010,1,2/20/2021,,10/28/2025,10/28/2025
+E1071,Donald,Levy,Donald Levy,donald.levy@retailcorp.com,Logistics Coordinator,Finance,4/13/2021,,Active,Full-time,E1029,STR0007,1,4/13/2021,,10/28/2025,10/28/2025
+E1072,Emily,Ruiz,Emily Ruiz,emily.ruiz@retailcorp.com,Store Manager,Sales,12/1/2022,1/25/2025,Terminated,Contractor,,STR0003,1,12/1/2022,1/25/2025,10/28/2025,10/28/2025
+E1073,Darren,Young,Darren Young,darren.young@retailcorp.com,Sales Associate,Customer Service,5/14/2024,,Active,Contractor,E1090,STR0013,1,5/14/2024,,10/28/2025,10/28/2025
+E1074,Tracy,Russell,Tracy Russell,tracy.russell@retailcorp.com,Sales Associate,Customer Service,12/29/2021,,Active,Contractor,E1097,STR0004,1,12/29/2021,,10/28/2025,10/28/2025
+E1075,James,Martinez,James Martinez,james.martinez@retailcorp.com,Sales Associate,Inventory,4/25/2023,1/31/2026,Terminated,Contractor,E1072,STR0008,1,4/25/2023,1/31/2026,10/28/2025,10/28/2025
+E1076,Jason,Kane,Jason Kane,jason.kane@retailcorp.com,Cashier,Customer Service,4/29/2023,6/12/2025,Terminated,Contractor,E1072,STR0020,1,4/29/2023,6/12/2025,10/28/2025,10/28/2025
+E1077,Mario,Thompson,Mario Thompson,mario.thompson@retailcorp.com,Inventory Clerk,Customer Service,4/14/2021,,Active,Contractor,,STR0014,1,4/14/2021,,10/28/2025,10/28/2025
+E1078,Shannon,Walker,Shannon Walker,shannon.walker@retailcorp.com,Logistics Coordinator,Customer Service,8/23/2024,,Active,Contractor,,STR0015,1,8/23/2024,,10/28/2025,10/28/2025
+E1079,Christopher,Franklin,Christopher Franklin,christopher.franklin@retailcorp.com,Inventory Clerk,Inventory,10/1/2022,,Active,Part-time,E1067,STR0016,1,10/1/2022,,10/28/2025,10/28/2025
+E1080,William,Jordan,William Jordan,william.jordan@retailcorp.com,Store Manager,Logistics,8/20/2022,,Active,Contractor,E1035,STR0011,1,8/20/2022,,10/28/2025,10/28/2025
+E1081,Larry,Scott,Larry Scott,larry.scott@retailcorp.com,Inventory Clerk,Finance,1/28/2021,4/27/2022,Terminated,Full-time,E1020,STR0007,1,1/28/2021,4/27/2022,10/28/2025,10/28/2025
+E1082,Brenda,Hoffman,Brenda Hoffman,brenda.hoffman@retailcorp.com,Cashier,Customer Service,10/10/2021,,Active,Contractor,E1008,STR0007,1,10/10/2021,,10/28/2025,10/28/2025
+E1083,Melanie,Bell,Melanie Bell,melanie.bell@retailcorp.com,Sales Associate,Customer Service,12/6/2020,,Active,Contractor,,STR0001,1,12/6/2020,,10/28/2025,10/28/2025
+E1084,Chelsea,Barrett,Chelsea Barrett,chelsea.barrett@retailcorp.com,Logistics Coordinator,Customer Service,6/4/2021,,Active,Part-time,E1050,STR0014,1,6/4/2021,,10/28/2025,10/28/2025
+E1085,Joyce,Bonilla,Joyce Bonilla,joyce.bonilla@retailcorp.com,Logistics Coordinator,Finance,2/15/2024,,Active,Full-time,E1035,STR0014,1,2/15/2024,,10/28/2025,10/28/2025
+E1086,Shelly,Carlson,Shelly Carlson,shelly.carlson@retailcorp.com,Sales Associate,Sales,9/13/2022,,Active,Contractor,E1052,STR0006,1,9/13/2022,,10/28/2025,10/28/2025
+E1087,Robert,Lewis,Robert Lewis,robert.lewis@retailcorp.com,Sales Associate,Inventory,9/9/2021,,Active,Contractor,E1051,STR0019,1,9/9/2021,,10/28/2025,10/28/2025
+E1088,Kevin,Clark,Kevin Clark,kevin.clark@retailcorp.com,Logistics Coordinator,Sales,2/1/2023,2/8/2025,Terminated,Full-time,,STR0006,1,2/1/2023,2/8/2025,10/28/2025,10/28/2025
+E1089,Jane,Mason,Jane Mason,jane.mason@retailcorp.com,Cashier,Logistics,4/23/2021,,Active,Full-time,E1044,STR0013,1,4/23/2021,,10/28/2025,10/28/2025
+E1090,Richard,Burch,Richard Burch,richard.burch@retailcorp.com,Inventory Clerk,Customer Service,1/18/2023,,Active,Full-time,E1096,STR0018,1,1/18/2023,,10/28/2025,10/28/2025
+E1091,Christian,Harrell,Christian Harrell,christian.harrell@retailcorp.com,Cashier,Logistics,4/4/2021,,Active,Full-time,E1084,STR0002,1,4/4/2021,,10/28/2025,10/28/2025
+E1092,Dwayne,Gonzalez,Dwayne Gonzalez,dwayne.gonzalez@retailcorp.com,Cashier,Inventory,9/10/2022,7/27/2023,Terminated,Contractor,E1017,STR0016,1,9/10/2022,7/27/2023,10/28/2025,10/28/2025
+E1093,Carlos,Ramos,Carlos Ramos,carlos.ramos@retailcorp.com,Cashier,Finance,7/25/2023,,Active,Part-time,E1099,STR0012,1,7/25/2023,,10/28/2025,10/28/2025
+E1094,Michelle,Wyatt,Michelle Wyatt,michelle.wyatt@retailcorp.com,Store Manager,Finance,12/14/2022,,Active,Contractor,E1100,STR0006,1,12/14/2022,,10/28/2025,10/28/2025
+E1095,Edward,Brown,Edward Brown,edward.brown@retailcorp.com,Inventory Clerk,Sales,6/1/2023,,Active,Part-time,E1049,STR0013,1,6/1/2023,,10/28/2025,10/28/2025
+E1096,Erik,Watson,Erik Watson,erik.watson@retailcorp.com,Store Manager,Sales,7/14/2024,,Active,Contractor,E1090,STR0010,1,7/14/2024,,10/28/2025,10/28/2025
+E1097,Edward,Miller,Edward Miller,edward.miller@retailcorp.com,Logistics Coordinator,Sales,12/25/2022,,Active,Contractor,E1045,STR0018,1,12/25/2022,,10/28/2025,10/28/2025
+E1098,Michael,Cox,Michael Cox,michael.cox@retailcorp.com,Sales Associate,Logistics,12/24/2022,8/13/2025,Terminated,Part-time,E1054,STR0016,1,12/24/2022,8/13/2025,10/28/2025,10/28/2025
+E1099,Kelli,Conley,Kelli Conley,kelli.conley@retailcorp.com,Cashier,Customer Service,9/12/2023,,Active,Contractor,,STR0015,1,9/12/2023,,10/28/2025,10/28/2025
+E1100,Jennifer,Montes,Jennifer Montes,jennifer.montes@retailcorp.com,Store Manager,Customer Service,2/17/2024,5/31/2026,Terminated,Contractor,E1069,STR0016,1,2/17/2024,5/31/2026,10/28/2025,10/28/2025

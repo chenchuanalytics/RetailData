@@ -1,0 +1,21 @@
+﻿channel_key,channel_code,channel_name,channel_type,channel_category,description,commission_rate,is_active,row_created_date,row_updated_date
+1,CHNL001,Retail Store,Hybrid,Owned,Retail Store channel for customer transactions,0,1,11/3/2022,3/24/2023
+2,CHNL002,Online Website,Physical,Partner,Online Website channel for customer transactions,0,1,1/27/2021,8/1/2021
+3,CHNL003,Mobile App,Digital,Marketplace,Mobile App channel for customer transactions,0.28,1,6/21/2023,3/2/2024
+4,CHNL004,Partner Outlet,Hybrid,Partner,Partner Outlet channel for customer transactions,0,1,5/7/2022,7/4/2022
+5,CHNL005,Franchise Store,Digital,Partner,Franchise Store channel for customer transactions,0,1,4/21/2021,8/4/2021
+6,CHNL006,Kiosk,Hybrid,Marketplace,Kiosk channel for customer transactions,10.76,1,6/4/2023,12/18/2023
+7,CHNL007,Call Center,Hybrid,Partner,Call Center channel for customer transactions,0,1,6/8/2021,4/18/2022
+8,CHNL008,Wholesale,Physical,Owned,Wholesale channel for customer transactions,0,1,7/14/2022,11/16/2022
+9,CHNL009,Marketplace Amazon,Physical,Owned,Marketplace Amazon channel for customer transactions,0,1,2/24/2024,1/13/2025
+10,CHNL010,Marketplace Flipkart,Hybrid,Partner,Marketplace Flipkart channel for customer transactions,0,1,3/19/2024,9/10/2024
+11,CHNL011,Shop-in-Shop,Hybrid,Owned,Shop-in-Shop channel for customer transactions,0,1,4/24/2023,12/5/2023
+12,CHNL012,B2B Portal,Digital,Owned,B2B Portal channel for customer transactions,0,1,6/12/2025,7/3/2025
+13,CHNL013,Social Commerce,Physical,Owned,Social Commerce channel for customer transactions,0,1,3/19/2024,4/1/2024
+14,CHNL014,Live Commerce,Hybrid,Marketplace,Live Commerce channel for customer transactions,13.15,1,4/13/2025,2/8/2026
+15,CHNL015,Affiliate Site,Physical,Marketplace,Affiliate Site channel for customer transactions,5.41,1,8/6/2023,12/9/2023
+16,CHNL016,Virtual Storefront,Hybrid,Partner,Virtual Storefront channel for customer transactions,0,1,7/24/2022,2/9/2023
+17,CHNL017,Pop-up Store,Digital,Marketplace,Pop-up Store channel for customer transactions,4.59,1,10/8/2025,10/12/2025
+18,CHNL018,Warehouse Outlet,Physical,Owned,Warehouse Outlet channel for customer transactions,0,1,8/26/2024,6/25/2025
+19,CHNL019,Drone Delivery,Physical,Owned,Drone Delivery channel for customer transactions,0,1,6/20/2025,6/3/2026
+20,CHNL020,Metaverse Store,Digital,Marketplace,Metaverse Store channel for customer transactions,5.76,1,4/29/2021,9/10/2021
