@@ -1,4 +1,4 @@
-﻿date_key,time_key,store_key,channel_key,payment_method_key,currency_key,order_id,payment_id,transaction_ref,paid_amt,fees_amt,change_amt,tips_amt,payment_status,authorization_code,source_system
+date_key,time_key,store_key,channel_key,payment_method_key,currency_key,order_id,payment_id,transaction_ref,paid_amt,fees_amt,change_amt,tips_amt,payment_status,authorization_code,source_system
 20210430,164225,6,4,2,4,ORD1VG5B,PAYNTYQA,TXRLPA36326,2911,4.36,0.77,0.69,Completed,AUTHHQ8RP8,POS
 20211227,225988,16,4,1,4,ORDR60NW,PAY19BYS,TXRKWITSN26,2929.66,4,0,14.31,Completed,AUTH11UO6Z,ECommerce
 20210711,157305,10,3,4,3,ORD7SVOL,PAY21V9M,TXRIU5LIHQ9,3905.69,0.35,3.01,14.96,Completed,AUTHDA4GA9,CRM
